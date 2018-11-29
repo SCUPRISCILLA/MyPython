@@ -1,4 +1,5 @@
-class NLode(object):
+class NLode(object):  #加入中文注释啦哈哈哈哈
+	#第一次用pycharm好紧张
 	"""docstring for NLode"""
 	def __init__(self, x):
 		self.data = x
